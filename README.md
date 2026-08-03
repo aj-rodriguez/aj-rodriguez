@@ -1,24 +1,21 @@
-# hey, i'm aj 🤖
+# hey, i'm aj 🚀
 
-cs @ ucsd | building ai that's honest about what it doesn't know
+cs @ ucsd | building software that actually works
 
-currently @ servicenow working on the harder problem: knowing *when* to ask instead of confidently guessing wrong
+currently @ servicenow working on systems that need to be reliable and trustworthy
 
 ---
 
 ## what i'm up to
 
-🔭 **i'm currently working on**  
-teaching ai agents when to shut up and ask a question instead of hallucinating confidence
+💻 **i'm currently working on**  
+full-stack systems, backend infrastructure, and making sure things don't break in production
 
-🌱 **i'm currently learning**  
-evaluation design that actually catches cheating, knowledge graphs, why your metrics lie to you
+🧠 **i'm currently learning**  
+system design, distributed systems, databases, and how to build things that scale
 
-🤝 **looking to collaborate on**  
-rag, vector search, agentic ai, or making llms admit uncertainty
-
-🌊 **when i'm not coding**  
-surfing la jolla, hitting the gym, or a good meal with friends
+👥 **looking to collaborate on**  
+backend services, data pipelines, infrastructure, or anything that solves a real problem
 
 ---
 
@@ -48,5 +45,3 @@ surfing la jolla, hitting the gym, or a good meal with friends
 
 📧 **email:** anthony.joseph.rodriguez@gmail.com  
 📄 **resume:** [view](https://drive.google.com/file/d/1s13bsNUm3TAIMDRli53KPkZklQWDUxEA/view?usp=sharing)
-
----
