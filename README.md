@@ -1,4 +1,4 @@
-hey, i'm aj! 
+## hey, i'm aj! 🤙🏾
 
 studying cs @ ucsd | building software that actually works
 
