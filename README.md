@@ -1,8 +1,10 @@
-# hey, i'm aj 🚀
+hey, i'm aj! 
 
-cs @ ucsd | building software that actually works
+studying cs @ ucsd | building software that actually works
 
 currently @ servicenow working on systems that need to be reliable and trustworthy
+
+when i'm not coding you'll find me at the gym, surfing, or eating good food with friends. 
 
 ---
 
