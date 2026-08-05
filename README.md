@@ -11,13 +11,13 @@ when i'm not coding you'll find me at the gym, surfing, or eating good food with
 ## what i'm up to
 
 💻 **i'm currently working on**  
-agentic ai, full-stack systems, and making sure things don't break in production
+agentic ai, full-stack applications, and machine learning research
 
 🧠 **i'm currently learning**  
-system design and how to build things that scale
+system design and JEPA frameworks 
 
 👥 **looking to collaborate on**  
-ai/ml software that solves a real problem
+applied ai/ml that solves a real problem
 
 ---
 
