@@ -45,4 +45,4 @@ applied ai/ml that solves a real problem
 </p>
 
 📧 **email:** anthony.joseph.rodriguez@gmail.com  
-📄 **resume:** [view](https://drive.google.com/file/d/1s13bsNUm3TAIMDRli53KPkZklQWDUxEA/view?usp=sharing)
+📄 **resume:** [view](https://drive.google.com/file/d/1EnPaNKM-q3Mv9xNkdnFP-hPdCG_ytMVh/view?usp=drive_link)
