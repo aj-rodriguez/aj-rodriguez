@@ -42,7 +42,6 @@ applied ai/ml that solves a real problem
 <p align="left">
 <a href="https://linkedin.com/in/aj-rodriguez00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aj-rodriguez00" height="30" width="40" /></a>
 <a href="https://instagram.com/ajrodr1guez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajrodr1guez" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anthonyj_rodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anthonyj_rodriguez" height="30" width="40" /></a>
 </p>
 
 📧 **email:** anthony.joseph.rodriguez@gmail.com  
