@@ -14,7 +14,7 @@ when i'm not coding you'll find me at the gym, surfing, or eating good food with
 agentic ai, full-stack applications, and machine learning research
 
 🧠 **i'm currently learning**  
-system design and JEPA frameworks 
+VLM's and JEPA frameworks 
 
 👥 **looking to collaborate on**  
 applied ai/ml that solves a real problem
